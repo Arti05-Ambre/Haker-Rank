@@ -6,7 +6,7 @@ public class Solution {
 System.out.println("Hello, Java."); 
         System.out.println("Avantika Ugandhar Ambre")
     }
-}
+} 
 Output:Hello,World
     Hello,Java  
     Avantika Ugandhar Ambre
